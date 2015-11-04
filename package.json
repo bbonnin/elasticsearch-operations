@@ -1,0 +1,22 @@
+{
+  "author": "Bruno Bonnin",
+  "name": "elasticsearch-operations",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbonnin/elasticsearch-operations.git"
+  },
+  "description": "Elasticsearch Operations",
+  "keywords": [ "elasticsearch" ],
+  "dependencies": {
+    "elasticsearch": "~9.0.0",
+    "tingodb": "~0.4.2",
+    "lodash": "~3.10.1",
+    "express": "~4.13.3",
+    "body-parser": "~1.14.1"
+  },
+  "engines": {
+    "node": ">= v0.12.1"
+  },
+  "license": "MIT"
+}
